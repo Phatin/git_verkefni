@@ -10,7 +10,7 @@
 	git status----- Show the working tree status
 	git diff------- Show changes between commits, commit and working   
 	tree, etc
-	git checkout
+	git checkout--- Switch branches or restore working tree files
 3. Hver er munurinn á eftirfarandi git skipunum:
 	a) git diff 
 	b) git diff --staged 
