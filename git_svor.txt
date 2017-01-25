@@ -3,7 +3,7 @@
 	cd ~ ----- change to home directory
 	ls ------- show list
 	pwd ------ show current directory
-	mkdir
+	mkdir ------- make new folder
 2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
 	git clone
 	git log
