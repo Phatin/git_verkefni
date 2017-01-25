@@ -7,7 +7,7 @@
 2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
 	git clone ----- clone a repository into a new directory
 	git log ------ show commit logs
-	git status
+	git status-----Show the working tree status
 	git diff
 	git checkout
 3. Hver er munurinn á eftirfarandi git skipunum:
