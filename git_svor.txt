@@ -29,4 +29,5 @@ GIT?
 8.	Hvenær er sniðugt að nota greinar (branches)? 
 ------i don't know, never used it before
 9.	Hver fann upp GIT?
+-------- Linus Torvalds
 10.	Hvar er GIT helst notað?
