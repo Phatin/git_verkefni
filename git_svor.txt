@@ -12,9 +12,9 @@
 	tree, etc
 	git checkout--- Switch branches or restore working tree files
 3. Hver er munurinn á eftirfarandi git skipunum:
-	a) git diff 
-	b) git diff --staged 
-	c) git diff commit1 commit2
+	a) git diff -------------------- is just a name of command
+	b) git diff --staged -----------This form is to view the changes --------------------------------you made relative to the index
+	c) git diff commit1 commit2-----This is to view the changes between --------------------------------two arbitrary <commit>
 4. 	Hvað er útgáfustýring (e.version control)? 
 5.	Hverjir eru helstu kostir við að nota GIT?
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
