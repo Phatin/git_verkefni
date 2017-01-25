@@ -6,7 +6,7 @@
 	mkdir ------- make new folder
 2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
 	git clone ----- clone a repository into a new directory
-	git log 
+	git log ------ show commit logs
 	git status
 	git diff
 	git checkout
