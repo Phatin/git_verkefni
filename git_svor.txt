@@ -27,5 +27,6 @@ GIT?
 ----b) The stagin area is a file, generally contained in your Git directory, that stores information about what will go into your next commit.
 ----c)The purpose of Git is to manage a project, or a set of files, as they change over time. Git stores this information in a data structure called a repository
 8.	Hvenær er sniðugt að nota greinar (branches)? 
+------i don't know, never used it before
 9.	Hver fann upp GIT?
 10.	Hvar er GIT helst notað?
