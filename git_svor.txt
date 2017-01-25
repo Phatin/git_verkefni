@@ -5,8 +5,8 @@
 	pwd ------ show current directory
 	mkdir ------- make new folder
 2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
-	git clone
-	git log
+	git clone ----- clone a repository into a new directory
+	git log 
 	git status
 	git diff
 	git checkout
