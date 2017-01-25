@@ -2,7 +2,7 @@
 	cd ---- change directory
 	cd ~ ----- change to home directory
 	ls ------- show list
-	pwd
+	pwd ------ show current directory
 	mkdir
 2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
 	git clone
