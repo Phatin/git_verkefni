@@ -1,7 +1,7 @@
 1. Hvað gera eftirfarandi Linux skipanir?
 	cd ---- change directory
 	cd ~ ----- change to home directory
-	ls
+	ls ------- show list
 	pwd
 	mkdir
 2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
