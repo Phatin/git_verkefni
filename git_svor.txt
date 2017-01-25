@@ -18,6 +18,7 @@
 4. 	Hvað er útgáfustýring (e.version control)? 
 -------version control system is for tracking changes in computer files -------and coordinating work on those files among mutliple people
 5.	Hverjir eru helstu kostir við að nota GIT?
+-------git allows a team of people to work together, all using the same -------files
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
 7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
 8.	Hvenær er sniðugt að nota greinar (branches)? 
