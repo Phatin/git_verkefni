@@ -1,14 +1,14 @@
 1. Hvað gera eftirfarandi Linux skipanir?
-	cd ---- change directory
-	cd ~ ----- change to home directory
-	ls ------- show list
-	pwd ------ show current directory
-	mkdir ------- make new folder
+	cd -----------change directory
+	cd ~ ---------change to home directory
+	ls -----------show list
+	pwd ----------show current directory
+	mkdir --------make new folder
 2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
 	git clone ----- clone a repository into a new directory
-	git log ------ show commit logs
-	git status-----Show the working tree status
-	git diff
+	git log ------- show commit logs
+	git status----- Show the working tree status
+	git diff------- Show changes between commits, commit and working tree, etc
 	git checkout
 3. Hver er munurinn á eftirfarandi git skipunum:
 	a) git diff 
