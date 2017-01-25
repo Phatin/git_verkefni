@@ -1,6 +1,6 @@
 1. Hvað gera eftirfarandi Linux skipanir?
 	cd ---- change directory
-	cd ~ 
+	cd ~ ----- change to home directory
 	ls
 	pwd
 	mkdir
